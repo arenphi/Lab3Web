@@ -17,6 +17,13 @@
 ###  2. Menggabungkan Sel Data
 ![image](img/ss.png)
 
+## C. Membuat Form
+###  1. Membuat Form
+![image](img/t.png)
+
+###  2. Menambahkan Style pada Form
+![image](img/x.png)
+
 
 
 
