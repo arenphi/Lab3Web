@@ -8,14 +8,14 @@
 - `<option>` setiap baris `<option>` mewakili satu pilihan dalam dropdown.
 
 ### Membuat Listbox Multiple Selectiom
-![image](img/code1.png)
+![image](img/code2.png)
 Masih menggunakan tag `<select>`, tetapi ditambahkan atribut `multiple` dan `size="4"`.
 - `multiple` memungkinkan pengguna memilih lebih dari satu pilihan (menggunakan tombol Ctrl di Windows atau Cmd di Mac).
 - `size="4"` menampilkan 4 baris pilihan sekaligus tanpa harus membuka dropdown (jadi tampil seperti listbox).
 - `name="agama"` digunakan untuk mengirimkan semua pilihan yang dipilih.
 - `<option>` → setiap opsi adalah pilihan agama yang bisa dipilih pengguna.
 
-Dan hasilnya akan seperti ini
+Dan hasilnya akan seperti ini <br>
 ![image](img/g.gif)
 
 
